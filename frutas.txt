@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 jabuticaba
 manga
 caqui
@@ -19,3 +20,10 @@ abacate
 uva verde
 kiwi
 >>>>>>> Frutas_verdes
+=======
+maça
+morango
+tomate
+amora
+acerola
+>>>>>>> Frutas_vermelhas
